@@ -1,13 +1,12 @@
-# Proyecto Final de la materia de Deep Learning de la Maestría en Ciencia de Datos
+# Proyecto de visualizaciones sobre educación en tiempos de covid
 
-**Profesor:** Francisco 
 
 **Integrantes del equipo**
 
-| # | Alumno                           | Clave única |
+| # | Alumno                           | a |
 |---|-----------------------------------|-------------|
-| 1 | Angel Rafael Ortega Ramírez | 123972      |
-| 2 | Carlos Tabares         | CU      |
+| 1 | Angel Rafael Ortega Ramírez | a     |
+| 2 |          | a      |
 
 
 
