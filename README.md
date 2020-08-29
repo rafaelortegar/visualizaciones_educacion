@@ -3,7 +3,7 @@
 
 **Integrantes del equipo**
 
-| # | Alumno                           | a |
+| # | Integrante                           | a |
 |---|-----------------------------------|-------------|
 | 1 | Angel Rafael Ortega Ramírez | a     |
 | 2 |          | a      |
